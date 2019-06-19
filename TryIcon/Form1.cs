@@ -15,5 +15,15 @@ namespace TryIcon
         {
             InitializeComponent();
         }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void 종료ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
